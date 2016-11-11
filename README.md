@@ -4,15 +4,15 @@ This repository contains all of the material used in the presentations for the [
 
 ### Python Machine Learning Libraries
 
-[Theano](http://deeplearning.net/software/theano/index.html#) 
-[TensorFlow](https://www.tensorflow.org/) 
-[TFLearn](http://tflearn.org/) 
-[Keras](https://keras.io/) 
+*[Theano](http://deeplearning.net/software/theano/index.html#) 
+*[TensorFlow](https://www.tensorflow.org/) 
+*[TFLearn](http://tflearn.org/) 
+*[Keras](https://keras.io/) 
 
 
 ### Environment Set-Up
 
-[Installing Keras, Theano and Dependencies on Windows 10](http://ankivil.com/installing-keras-theano-and-dependencies-on-windows-10/)
+*[Installing Keras, Theano and Dependencies on Windows 10](http://ankivil.com/installing-keras-theano-and-dependencies-on-windows-10/)
 
 ---
 
