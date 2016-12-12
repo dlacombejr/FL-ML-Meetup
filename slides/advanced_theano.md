@@ -97,7 +97,8 @@ train_generator = ImageDataGenerator(
 )
 valid_generator = ImageDataGenerator(
     rescale=1 / 256.
-)```
+)
+```
 
 ---
 
