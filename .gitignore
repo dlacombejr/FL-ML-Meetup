@@ -1,3 +1,5 @@
 .DS_Store
 /dev
 /notebooks/.ipynb_checkpoints
+/notebooks/model_history.txt
+/notebooks/my_model.h5
