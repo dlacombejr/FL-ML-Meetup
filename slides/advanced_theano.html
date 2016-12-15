@@ -387,9 +387,7 @@ This way of using Keras feels more Theano-like and allows for more flexibility i
 Training the above model to accurately classify hand-written digits is as easy as loading some data, applying preproecssing, and then passing it as well as some arguments to the `model.fit()` method. 
 
 ```python
-import numpy as np
 from keras.datasets import mnist
-from keras.utils.np_utils import to_categorical
 
 # load the data
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
@@ -577,6 +575,11 @@ def make_prediction():
 if __name__ == '__main__':
     app.run(host='127.0.0.1', port=5000, debug=True)
 ```
+
+---
+template: inverse
+
+## Thank you! -- Questions?
 
 
 
